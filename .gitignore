@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package.json
+package-lock.json
+
+# Environment
+.env
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Output of npm commands
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Uncomment if you have configuration files that are not needed
+# config.js
+# .config.js
